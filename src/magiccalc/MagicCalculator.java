@@ -38,7 +38,7 @@ public class MagicCalculator {
 				System.out.print(i + "x");
 			}
 		}
-		System.out.printf("%d...factorial of chosen number= ", num);
+		System.out.printf("%d: factorial of chosen number = ", num);
 		return fact;
 
 	}
