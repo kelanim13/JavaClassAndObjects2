@@ -1,6 +1,10 @@
 package magiccalc;
 
-public class MagicCalculator {
+import javacalc.JavaCalculator;
+
+public class MagicCalculator 
+extends JavaCalculator
+{
 
 	public int num;
 

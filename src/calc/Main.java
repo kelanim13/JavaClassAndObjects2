@@ -23,6 +23,7 @@ public class Main {
 		System.out.println(MagicCalculator.cosine(32));
 		System.out.println(MagicCalculator.tangent(20));
 		System.out.println(MagicCalculator.sine(4));
+		System.out.println(MagicCalculator.addition(3, 7)); 
 
 		System.out.println("Enter number to find out its factorial");
 		int fact = input.nextInt();
