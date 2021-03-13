@@ -6,7 +6,7 @@ public class MagicCalculator
 extends JavaCalculator
 {
 
-	public int num;
+	int num;
 
 	public MagicCalculator(int num) {
 		this.num = num;
