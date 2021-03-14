@@ -31,5 +31,4 @@ public class JavaCalculator {
 		int square = num1 * num1;
 		return square;
 	}
-
 }
